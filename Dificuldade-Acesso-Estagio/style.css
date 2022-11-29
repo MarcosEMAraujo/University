@@ -1,0 +1,46 @@
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css');
+.bg-dark {
+    background-color: #193e64!important;
+}
+.navbar-brand{
+    font-size: 25px;
+    color: #ffffff !important;
+}
+a.nav-link{
+    font-size: 20px;
+    color: #ffffff !important;
+}
+.display-4{
+    padding: 0% !important;
+}
+.display-3{
+    padding-top: 5.3% !important;
+}
+.lead{
+    font-family: lancamento;
+}
+.video{
+    margin: auto;
+    width: 100%;
+    height: 300px;
+}
+.video1{
+    margin-top: 20%;
+    width: auto;
+    height: auto;
+}
+.bg-primary{
+    background-color: #ffffff34 !important;
+}
+.imag{
+    margin-top: 6.4rem;
+    margin-left: 2.5rem;
+    margin-bottom: 2.5rem;
+}
+h1{
+    color: white;
+    line-height: 0.5rem;
+}
+input{
+    margin-left: 23.5rem;
+}
