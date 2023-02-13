@@ -1,1 +1,2 @@
-# Projetos-Meus
+Esse projeto foi realizado durante as aulas de Trabalho Interdiciplinar: Aplicações Web da Pontifícia Universidade Católica de Minas Gerais, onde o grupo focou em desenvolver uma plataforma que facilitaria o contato entre estagiarios e as empresas, criando uma conexão direta entre ambos, uma vez que existe certa dificuldade.
+Ao longo de pesquisas com o público alvo chegamos a conclusão que essa dor realmente afetava muitos estudantes que queriam encontrar estágios e pequenas empresas que queriam contratar estagiários.
